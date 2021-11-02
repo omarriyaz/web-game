@@ -174,7 +174,6 @@ function addBee() {
     document.getElementById("nbBees").value += 1;
 }
 
-
 function updateBees() {
     //move the bees randomly
     moveBees();
